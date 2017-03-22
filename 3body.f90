@@ -6,7 +6,7 @@ program threebody
 	integer :: nt, dsnap, np1,np2
 	real :: t,dt
 	! Chunk to be divided between threads
-	integer,parameter :: chunk = 1000
+	integer,parameter :: chunk = 100
 
 !	Input Data
 	call input_data(x,v,np1,np2,M)
