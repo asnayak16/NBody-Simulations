@@ -1,6 +1,6 @@
 // N-BODY SIMULATION Using GPUs
 // Exact pair interactions with Leapfrog Integration
-// Written by Ashwin Nayak, A53212870, asnayak[at]ucsd.edu
+// Written by Ashwin Nayak, asnayak[at]ucsd.edu
 // ----------------------------------------------------------
 // Graphics Card : NVIDIA GTX 960M
 // ----------------------------------------------------------
