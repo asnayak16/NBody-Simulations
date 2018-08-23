@@ -15,3 +15,11 @@ FUTURE WORK: Needs update to double precision.
 
 Try with 'pl0.dat' initial condition for stable plummer simulation.
 Inform for any changes needed.
+
+Videos : 
+Planets Orbits               : https://youtu.be/_JtpiTnrHZU
+Transfer Orbit to Mars       : https://youtu.be/vZ24WSmJVn0
+Mice Galaxies Tail Formation : https://youtu.be/sOXuiDufRcY
+Plummer's Model (Stable)     : https://youtu.be/4vbFyF4gE18
+Plummer's Model (Unstable)   : https://youtu.be/_gM069AukeE
+
