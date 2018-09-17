@@ -1,5 +1,5 @@
 ! Program to simulate Plummer's sphere (Leapfrog integrator)
-!! Written by Ashwin Nayak, asnayak@ucsd.edu
+!! Written by Ashwin Nayak
 !! Compile with -fdefault-real-8 (gfortran) or -real_size=64 (icc)
 !! Last Update: 25-feb-2017
 ! ---------------------------------------------------------
